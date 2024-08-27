@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ShadowFan123
+- 👀 I’m interested in python programming and web dev
+- 🌱 I’m currently learning js
+- 💞️ I’m looking to collaborate on my dad
+- 📫 How to reach me that's a secret info!
+- 😄 Pronouns: ...
+- ⚡ Fun fact: SuperB module is still v1.0
